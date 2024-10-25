@@ -24,7 +24,6 @@ product_price: Number(price)
 })
 }
 
-
 const cartItemsListeners = () => {
   const addToCartButtons = document.querySelectorAll('.cart .add-to-cart')
   listenToAdd(addToCartButtons)
