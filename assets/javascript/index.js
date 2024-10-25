@@ -22,6 +22,7 @@ product_price: Number(price)
 })
 })
 })
+}
 
 
 const cartItemsListeners = () => {
